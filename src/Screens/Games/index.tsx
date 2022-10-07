@@ -1,10 +1,9 @@
-
 import { Container, Title } from './styles';
 
-export default function Teams() {
+export default function Matchs() {
   return (
    <Container>
-     <Title>Players,Teams and description</Title>
+     <Title>Matchs</Title>
    </Container>
   );
 }

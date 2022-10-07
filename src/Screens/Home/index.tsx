@@ -1,11 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-import { Container } from './styles';
+import { Container, Title } from './styles';
 
-export default function App() {
+export default function Home() {
   return (
     <Container>
-
+     <Title>Home Page World Cup</Title>
     </Container>
   );
 }
